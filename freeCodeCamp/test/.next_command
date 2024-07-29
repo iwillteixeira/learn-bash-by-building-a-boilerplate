@@ -216,3 +216,6 @@ find
 rm -rf fonts/
 ls --color=auto
 rm --help
+ls --color=auto
+mkdir fonts
+rm -r fonts/
