@@ -135,3 +135,4 @@ cd images/
 lls
 ls --color=auto
 cd ..
+ls --color=auto
