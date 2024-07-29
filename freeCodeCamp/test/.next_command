@@ -224,3 +224,4 @@ touch package.json
 touch server.js
 rouch README.md
 touch README.md
+ls --color=auto
