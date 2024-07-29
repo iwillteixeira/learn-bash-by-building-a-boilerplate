@@ -88,3 +88,5 @@ cd src/
 pwd
 ls --color=auto
 more index.js
+ls --color=auto
+cd ..
